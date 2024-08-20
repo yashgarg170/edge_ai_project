@@ -92,10 +92,6 @@ pip install opencv-python numpy cvzone
 - **Customization**: Allowing users to adjust filter parameters dynamically.
 - **GUI Implementation**: Creating a graphical user interface (GUI) for easier interaction and filter selection.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Contributing
 
 Feel free to fork this project and contribute by submitting pull requests. Any improvements or new features are welcome!
@@ -106,5 +102,5 @@ Enjoy filtering your webcam images and experimenting with effects in real-time!
 
 ## Author
 
-[Your Name](https://github.com/yourusername)
+[Yash Garg](https://github.com/yashgarg170)
 
